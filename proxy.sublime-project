@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "Rebuild Place",
+			"cmd": ["rbxmk", "-f", "$project_path/make.lua"]
+		}
+	]
+}
